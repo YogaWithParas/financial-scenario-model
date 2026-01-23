@@ -1,4 +1,4 @@
-# financial-clarity-engine
+# financial-scenario-model
 
 ## Overview
 This project is a scenario-based financial model built to support decision-making under uncertainty. 
