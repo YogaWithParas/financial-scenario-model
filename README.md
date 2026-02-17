@@ -1,4 +1,11 @@
 # financial-scenario-model
+## Quick Start
+
+To download the Excel model:
+
+1. Click on **"Blue Containers Worksheet - Beginner Version 1.xlsx"** above.
+2. Click **Download**.
+3. Open in Microsoft Excel.
 
 ## Overview
 This project is a scenario-based financial model built to support decision-making under uncertainty. 
